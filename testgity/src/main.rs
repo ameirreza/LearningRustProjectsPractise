@@ -1,3 +1,9 @@
 fn main() {
-    println!("Hello, world!");
+    let mut numberic = 0;
+
+    while numberic < 10
+    {
+        numberic +=1 ;
+        println!("man kos mikahm");
+    }
 }
