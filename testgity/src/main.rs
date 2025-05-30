@@ -6,4 +6,6 @@ fn main() {
         numberic +=1 ;
         println!("man kos mikahm");
     }
+println!("this is a test");
+    
 }
